@@ -1,0 +1,32 @@
+.page {
+    width: 350px;
+    height: 350px;
+    background-size: cover;
+    background-position: 50% 50%;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 20px 10px;
+    color: #fff;
+    font-size: 17px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.page:hover{
+    transform: scale(1.02);
+}
+
+.pages-1 {
+    background-image: url("@/assets/pages_1.jpg");
+}
+
+.pages-2 {
+    background-image: url("@/assets/pages_2.png");
+}
+
+.pages-3 {
+    background-image: url("@/assets/pages_3.jpg");
+}
