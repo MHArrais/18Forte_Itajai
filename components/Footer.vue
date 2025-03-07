@@ -3,8 +3,8 @@
     <a>
         <img id="logo" src="@/assets/logo.jpg"  alt="logo">
     </a>
-    <span>Todos os difeitos reservados ©</span>
-    <span>Desenvolvido por: <a href="https://mharrais.github.io/Portfolio/" id="ancor-footer" target="_blank">Bonez</a></span>
+    <span>Todos os direitos reservados ©</span>
+    <span>Desenvolvido por: <a href="https://mharrais.github.io/Portfolio/" id="ancor-footer" target="_blank">M. Henrique Arrais</a></span>
 
     <nav class="footer-navigation">
         <ul class="footer-list">

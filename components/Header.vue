@@ -11,7 +11,7 @@
               <NuxtLink to="/">Home</NuxtLink>
             </li>
             <li>
-              <NuxtLink to="/contato">Contatos</NuxtLink>
+              <NuxtLink to="/contatos">Contatos</NuxtLink>
             </li>
             <li>
               <NuxtLink to="/fotos">Fotos</NuxtLink>
